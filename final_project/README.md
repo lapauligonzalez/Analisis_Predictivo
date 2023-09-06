@@ -1,3 +1,5 @@
 # Final Proyect for Descriptive Analytics
 
 For the final project of the Descriptive Analytics course, we selected the dataset known as the 'StudentLife Dataset,' which contains data from a study carried out by Dartmouth College, a university located in the state of New Hampshire, United States. The data was collected through an Android app equipped with sensors and surveys, designed to assess the daily lives of 60 students over the course of a semester. Our primary objective for this project was to explore ways to enhance the performance of Dartmouth College students. To achieve this, we attempted to ascertain whether academic performance is related to the students' quality of life and evaluated what factors contribute to some students outperforming others.
+
+At the beginning, the project presented challenges due to each student having their own .json file for each variable, which contained a substantial amount of missing data and exhibited a significant level of data inconsistency. As a result, the initial data cleaning and missing value imputation stages proved to be quite demanding.
